@@ -226,20 +226,20 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 50px;
+    gap: 70px;
     margin-top: 20px;
 }
 
 .project-card {
     background: white;
     border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    box-shadow: 1 3px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
     max-width: 900px;
 }
 
 .project-card img {
-    width: 100%;
+    width: 150%;
     border-radius: 5px;
     margin-bottom: 10px;
 }
